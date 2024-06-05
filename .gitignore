@@ -1,0 +1,6 @@
+data/
+.env
+ser
+chat-server
+.DS_Store
+__pycache__
